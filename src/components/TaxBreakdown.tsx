@@ -2,7 +2,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
 import { Badge } from "@/components/ui/badge";
-import { Users, Heart, Briefcase, Receipt } from "lucide-react";
+import { Users, Heart, Briefcase, Receipt, Building2 } from "lucide-react";
 import { formatCurrency } from "@/utils/taxCalculations";
 
 interface TaxBreakdownProps {
